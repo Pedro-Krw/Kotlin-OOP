@@ -1,7 +1,5 @@
 
 
-
-
   const val name = "own"
   const val company = "self.id"
   const val age = 3

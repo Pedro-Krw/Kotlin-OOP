@@ -1,8 +1,20 @@
 fun main() {
-    print("Data")
 
     nameList()
+    listData()
+    testing()
 }
+  val dataAwal: Int = 30;
+  val dataTengah: Int = 10;
+
+  fun testing(){
+      val dataAwal: Int = 30;
+      val dataTengah: Int = 10;
+
+      if (dataAwal > dataTengah){
+          print("yapp")
+      }
+  }
 
 
 fun nameList(): ArrayList<String>{
@@ -16,4 +28,20 @@ fun nameList(): ArrayList<String>{
     print(names)
 
   return names
+}
+
+
+fun listData(): ArrayList<Int>{
+
+    val DataPrivate = ArrayList<Int>()
+    DataPrivate.add(20)
+    DataPrivate.add(30)
+    DataPrivate.add(40)
+    DataPrivate.add(50)
+    DataPrivate.add(60)
+    DataPrivate.add(70)
+
+
+
+    return DataPrivate
 }

@@ -38,7 +38,5 @@ fun listData(): ArrayList<Int>{
         print(DataPrivate + nameList())
     }
 
-
-
     return DataPrivate
 }

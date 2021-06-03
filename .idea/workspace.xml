@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b43c1a3-3270-4bc6-88f3-4472c4fe046d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Collection" beforeDir="false" afterPath="$PROJECT_DIR$/../Collection" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KotlinEntryPoint/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KotlinEntryPoint/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KotlinEntryPoint/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KotlinEntryPoint/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data Class/MainData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data Class/MainData.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,13 +12,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin Script" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1tOgd9WQKQ4M6yUfN7ZibEbTTkl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -31,6 +29,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager" selected="Application.MainDataKt">
     <configuration name="MainDataKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">

@@ -23,7 +23,6 @@ fun namaDonmain(): ArrayList<String>{
 }
 
 
-
 fun nameList(): ArrayList<String>{
    val names = ArrayList<String>()
     names.add("martin")

@@ -1,9 +1,31 @@
 fun main() {
 
-    listData()
+    namaDonmain()
 
 
 }
+
+
+fun namaDonmain(): ArrayList<String>{
+    val Domain = ArrayList<String>()
+    val nama: Int = 40
+
+    Domain.add("Nama satu")
+    Domain.add("Nama dua")
+    Domain.add("Nama tiga")
+    Domain.add("Nama empat")
+    Domain.add("Nama lima")
+    Domain.add("Nama lima "+ nama.toString())
+
+
+    print(Domain)
+    return  Domain
+}
+
+
+
+
+
 
 
 

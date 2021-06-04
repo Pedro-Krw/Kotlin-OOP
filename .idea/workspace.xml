@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3b43c1a3-3270-4bc6-88f3-4472c4fe046d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KOTLIN/MainDataKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KOTLIN/MainDataKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Data Class/MainData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data Class/MainData.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +31,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager" selected="Application.MainDataKt">
     <configuration name="MainDataKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">

@@ -1,6 +1,6 @@
 fun main() {
 
-    namaDonmain()
+   DataFungtion();
 
 
 }
@@ -21,12 +21,6 @@ fun namaDonmain(): ArrayList<String>{
     print(Domain)
     return  Domain
 }
-
-
-
-
-
-
 
 
 
@@ -55,6 +49,9 @@ fun listData(): ArrayList<Int>{
     DataPrivate.add(50)
     DataPrivate.add(60)
     DataPrivate.add(70)
+    DataPrivate.add(80)
+    DataPrivate.add(90)
+    DataPrivate.add(100)
 
     if (dataTengah > dataAwal){
         print(DataPrivate + nameList())
@@ -62,3 +59,20 @@ fun listData(): ArrayList<Int>{
 
     return DataPrivate
 }
+
+
+fun DataFungtion(){
+    val dataPertama: Int = 10
+    val dataKemungkinan : Int = 20 * 2
+    val dataKetiga : Int  = 40
+    val hasil = dataKemungkinan * dataKetiga * nameList().size
+
+    if (dataPertama <= 12 ){
+
+        print(hasil)
+    }
+
+
+
+}
+

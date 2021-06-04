@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3b43c1a3-3270-4bc6-88f3-4472c4fe046d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KOTLIN/MainDataKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KOTLIN/MainDataKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Data Class/MainData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data Class/MainData.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

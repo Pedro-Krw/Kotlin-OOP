@@ -1,33 +1,35 @@
 package RootAccess
 
-fun main() {
-    Data()
+class Rata_Rata{
+
+    var Rata_Rata_Nilai : Int = 70
+}
+
+
+
+class Kiba {
+
+        var Nama : String = "Kiba"
+        var Nilai : Int = 80
+        var umur : Int = 17
+        var NilaiUjian  : Int = 40
+
 
 }
 
-class Data {
+class Zoro{
+
+    var Nama : String = "Zoro"
+    var Nilai : Int = 60
+    var umur : Int = 20
+    var NilaiUjian  : Int = 40
+}
 
 
-    fun Zoro(){
-        var umur3 : Int = 20
-    }
+class War{
 
-
-    fun Kiba(){
-        var nama1 : String = "Kiba"
-        var umur1 : Int = 17
-        var NilaiUjian1  : String = "80"
-
-    }
-
-
-    fun War(){
-        var nama2 : String = "War"
-        var umur2 : Int = 25
-        var NilaiUjian2  : String = "65"
-
-    }
-
-
-
+    var Nama : String = "War"
+    var Nilai : Int = 65
+    var umur : Int = 25
+    var NilaiUjian  : Int = 60
 }

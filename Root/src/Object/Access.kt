@@ -1,9 +1,9 @@
-package App
+package Object
 
-import RootAccess.Kiba
-import RootAccess.Rata_Rata
-import RootAccess.War
-import RootAccess.Zoro
+import Class.Kiba
+import Class.Rata_Rata
+import Class.War
+import Class.Zoro
 
 
 fun main() {

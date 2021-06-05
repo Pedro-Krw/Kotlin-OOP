@@ -21,16 +21,32 @@ fun Peserta(){
     var peserta2 = Zoro()
     var peserta3 = War()
     var Rata_Rata = Rata_Rata()
-    var Lulus : String = "Lulus"
-    var Tidak : String = "Tidak Lulus"
+    var Lulus : String = " Lulus  "
+    var Tidak : String = " TidakLulus  "
 
 
-    if (peserta1.NilaiUjian > Rata_Rata.Rata_Rata_Nilai){
-        print(Lulus)
+    if (peserta1.Nilai > Rata_Rata.Rata_Rata_Nilai){
+        print(peserta1.Nama + Lulus)
     }
     else{
-        print(Tidak)
+        print(peserta1.Nama + Tidak)
     }
+
+    if (peserta2.Nilai > Rata_Rata.Rata_Rata_Nilai){
+        print(peserta2.Nama + Lulus)
+    }
+    else{
+        print(peserta2.Nama + Tidak)
+    }
+
+
+    if (peserta3.Nilai > Rata_Rata.Rata_Rata_Nilai){
+        print(peserta3.Nama + Lulus)
+    }
+    else{
+        print(peserta3.Nama + Tidak)
+    }
+
 
 
 }

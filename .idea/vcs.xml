@@ -3,5 +3,9 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Collection" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KOTLIN" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Kotlin-version" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KotlinEntryPoint" vcs="Git" />
   </component>
 </project>

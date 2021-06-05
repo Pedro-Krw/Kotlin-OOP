@@ -49,7 +49,7 @@ class War{
 }
 
 
-## Logic
+## Run
 
 fun main() {
 

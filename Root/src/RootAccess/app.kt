@@ -2,11 +2,9 @@ package RootAccess
 
 class app {
 
-    val Setup : String = "Key"
+    var Setup : String = ""
+    var Display : Int = 42
+    var Vendor : String = ""
 
-    fun aplication(){
-        print(Setup)
-
-    }
 
 }

@@ -1,15 +1,16 @@
 package App
 
-import RootAccess.Data
 import RootAccess.app
 
 fun main() {
 
-    val jalankan = app()
-    val key = Data().data()
+    val Run = app()
+    Run.Display = 70
+    Run.Setup = "  SuperAmoled  "
+    Run.Vendor = "  Panasonic"
 
-
-    print(jalankan  )
-    print(  key)
+    print("${Run.Display} Innci")
+    print(Run.Setup)
+    print(Run.Vendor)
 
 }

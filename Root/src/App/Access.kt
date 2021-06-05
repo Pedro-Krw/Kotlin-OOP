@@ -6,7 +6,7 @@ import RootAccess.app
 fun main() {
 
     val jalankan = app()
-    val key = Data()
+    val key = Data().data()
 
 
     print(jalankan  )

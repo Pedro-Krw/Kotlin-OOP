@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="edb11f59-112c-4843-8d59-b4c4e847f0bb" name="Default Changelist" comment="" />
+    <list default="true" id="edb11f59-112c-4843-8d59-b4c4e847f0bb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Root/META-INF/Root.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Root/META-INF/Root.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PropertiesDiConstractor/Data.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/PropertiesDiConstractor/Data.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PropertiesDiConstractor/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/PropertiesDiConstractor/Main.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +45,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.SecondKt">
+  <component name="RunManager" selected="Application.MainKt">
     <configuration name="AlatKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Root" />
       <option name="VM_PARAMETERS" />
@@ -74,7 +79,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Constractor.MainKt" />
+      <option name="MAIN_CLASS_NAME" value="PropertiesDiConstractor.MainKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -108,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainKt" />
         <item itemvalue="Application.SecondKt" />
         <item itemvalue="Application.MainSecondKt" />
         <item itemvalue="Application.MainDataKt" />
         <item itemvalue="Application.AlatKt" />
-        <item itemvalue="Application.MainKt" />
       </list>
     </recent_temporary>
   </component>

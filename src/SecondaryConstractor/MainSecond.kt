@@ -1,15 +1,13 @@
 package SecondaryConstractor
 
-class MainSecond (){
+
+fun main() {
+  DataOrang()
+}
+
+class MainSecond (var nama : String = "kamu  " , var Umur : String = "40"){
 
 
-    constructor( nama: String ,Alamat: String ,  Jalan: String){
-
-        var  nama = nama
-        var Alamat = Alamat
-        var Jalan = Jalan
-
-    }
 
 
 

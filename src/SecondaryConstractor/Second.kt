@@ -5,8 +5,12 @@ fun main() {
 }
 
   fun DataOrang(){
-      val Orang = MainSecond("barnabas" , "BIAK KOTA" , "MANJAPAHIT")
+      val Orang = MainSecond("" , "" )
+      val Orang2 = MainSecond("" )
+      val orang3 = MainSecond()
 
-      println(Orang)
+      print(orang3.nama)
+      print(orang3.Umur)
+
 
   }

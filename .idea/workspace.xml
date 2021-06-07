@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="edb11f59-112c-4843-8d59-b4c4e847f0bb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Root/META-INF/Root.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Root/META-INF/Root.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SecondaryConstractor/MainSecond.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SecondaryConstractor/MainSecond.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SecondaryConstractor/Second.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SecondaryConstractor/Second.kt" afterDir="false" />
     </list>
@@ -22,6 +23,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1tWyEACtMOavTso6C44ScQR89b7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />

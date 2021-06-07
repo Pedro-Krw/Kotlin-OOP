@@ -5,12 +5,16 @@ fun main() {
 }
 
   fun DataOrang(){
-      val Orang = MainSecond("" , "" )
-      val Orang2 = MainSecond("" )
-      val orang3 = MainSecond()
+      val Data1 = MainSecond("nama ini di manipulasi    ", "umur ini di manipulasi juga \n")
+      val Data2 = MainSecond("methus ")
+      val Data3 = MainSecond()
 
-      print(orang3.nama)
-      print(orang3.Umur)
+      print(Data1.Orang1)
+      print(Data1.Umur)
+      print(Data2.Orang1)
+      print(Data2.Umur)
+      print(Data3.Orang1)
+      print(Data3.Umur)
 
 
   }

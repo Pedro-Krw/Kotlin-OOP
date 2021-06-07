@@ -1,0 +1,4 @@
+package PropertiesDiConstractor
+
+class Data {
+}

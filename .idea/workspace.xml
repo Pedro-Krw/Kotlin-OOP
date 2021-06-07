@@ -1,61 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ace28bc4-0088-44a3-a6b4-61b37dff528e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collection" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KOTLIN.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KOTLIN/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KOTLIN/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/KOTLIN/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KOTLIN/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/KOTLIN/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KOTLIN/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KOTLIN/lib/kotlin-reflect-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KOTLIN/lib/kotlin-reflect.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KOTLIN/lib/kotlin-stdlib-jdk7-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KOTLIN/lib/kotlin-stdlib-jdk7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KOTLIN/lib/kotlin-stdlib-jdk8-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KOTLIN/lib/kotlin-stdlib-jdk8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KOTLIN/lib/kotlin-stdlib-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KOTLIN/lib/kotlin-stdlib.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KOTLIN/lib/kotlin-test-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KOTLIN/lib/kotlin-test.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KOTLIN/out/production/KOTLIN/META-INF/KOTLIN.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KOTLIN/out/production/KOTLIN/MainDataKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KOTLIN/out/production/KOTLIN/MainKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KOTLIN/src/Data Class/MainData.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KOTLIN/src/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin-version" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KotlinEntryPoint/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-reflect-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-reflect.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-test-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/kotlin-test.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KOTLIN/META-INF/KOTLIN.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KOTLIN/MainDataKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KOTLIN/MainKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data Class/MainData.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" />
+    <list default="true" id="edb11f59-112c-4843-8d59-b4c4e847f0bb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Constractor/Alat.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Constractor/Alat.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
   </component>
-  <component name="ProjectId" id="1tWy92syVZ9gY7QtgSUoHP84aB6" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1tWyEACtMOavTso6C44ScQR89b7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -63,18 +29,79 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.MainKt">
+    <configuration name="AccessKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Root" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Object.AccessKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Root" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Class.DataKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Root" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Constractor.MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainKt" />
+        <item itemvalue="Application.AccessKt" />
+        <item itemvalue="Application.DataKt" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ace28bc4-0088-44a3-a6b4-61b37dff528e" name="Default Changelist" comment="" />
-      <created>1622898985449</created>
+      <changelist id="edb11f59-112c-4843-8d59-b4c4e847f0bb" name="Default Changelist" comment="" />
+      <created>1622899028404</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1622898985449</updated>
+      <updated>1622899028404</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

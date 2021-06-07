@@ -1,9 +1,1 @@
-# Kotlin
-
- ## OOP
-
--class 
-
- -object
-- 
 

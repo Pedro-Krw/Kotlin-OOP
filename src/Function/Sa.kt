@@ -12,4 +12,14 @@ class Sa {
         Umur = _umur
 
     }
+
+
+    fun orang(){
+        print("ini bagian function satu \n")
+    }
+
+    fun orang2 (){
+        print("\n ini bagian orang yang ke dua \n")
+    }
+
 }

@@ -7,8 +7,10 @@ package Function
   fun dia(){
 
        val data = Sa("" , "")
+      var dataFun = Sa().orang()
 
-        print(data.Umur)
+      print(dataFun)
+
 
 
 

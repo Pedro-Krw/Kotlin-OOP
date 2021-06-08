@@ -15,4 +15,5 @@ fun main() {
    print(ObjectBaru)
 
 
+
  }

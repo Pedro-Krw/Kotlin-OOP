@@ -1,1 +1,52 @@
+# Kotlin
 
+## List Kotlin OOP
+
+ - Class
+ - Object
+ - Properties
+ - Constructor
+ - Initializer
+ - Secondary Constructor
+ - Properties Constructor
+ - Function 
+ - Function Overloading
+ - keyword
+ - Inheritance
+ - Function Overriding
+ - Super Keyword 
+ - Super Constructor
+ - Any Class 
+ - Type Check
+ - toString Function
+ - equals Function 
+ - hashCode Function
+ - Abstract Class
+ - Abstract Properties & Function
+ - Getter and Setter
+ - Late initialized Properties
+ - Interface
+ - Visibility Modifier
+ - Extension Function
+ - Extension Properties
+ - Data Class
+ - Sealed Class
+ - Inner Class
+ - Anonymous Class
+ - Enum Class
+ - Singleton Object
+ - Companion Object 
+ - Type Alias
+ - Inline Class
+ - Delegation 
+ - Lazy Properties
+ - Observable Properties 
+ - Destructuring Declaration 
+ - Operator Overloading
+ - Null Safety 
+ - Exception 
+ - Annotation
+ - Reflection
+ - Scope  
+ - Polymorphism
+ - Next ->

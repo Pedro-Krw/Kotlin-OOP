@@ -2,22 +2,14 @@ package Function
 
 class Sa {
 
-    var Orang : String = " "
-    var Usia : String = " "
+    var Orang1 : String = ""
+    var Umur : String= ""
 
-    constructor(name : String = " dflt1 " , umur : String = "dflt2"){
-        Orang = name
-        Usia = umur
+
+    constructor(   _nama : String = "anie  " , _umur : String = " 40 \n" ) {
+
+        Orang1 = _nama
+        Umur = _umur
+
     }
-
-
-    fun data1(){
-        var nama = "bob"
-        var umur = 23
-        var jenis = "laki"
-
-        print("$nama , $umur  , $jenis")
-    }
-
-
 }

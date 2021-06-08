@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="edb11f59-112c-4843-8d59-b4c4e847f0bb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Function/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Function/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Root/Function/MainFunctionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Root/Function/MainFunctionKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Root/Function/Sa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Root/Function/Sa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Function/MainFunction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Function/MainFunction.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Function/Sa.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Function/Sa.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +42,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />

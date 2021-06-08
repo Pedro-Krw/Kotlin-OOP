@@ -1,16 +1,16 @@
 package Function
 
  fun main() {
-      Call()
+     dia()
   }
 
-  fun Call(){
+  fun dia(){
 
-       val data = Sa("" ,  "ini di ubah")
+       val data = Sa("" , "")
+
+        print(data.Umur)
 
 
-      print(data.Orang)
-      print(data.Usia)
 
 
   }

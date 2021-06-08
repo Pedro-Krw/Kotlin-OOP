@@ -1,0 +1,4 @@
+package ThisKeyword
+
+class Kyword {
+}

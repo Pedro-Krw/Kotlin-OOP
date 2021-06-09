@@ -18,6 +18,6 @@ open class Inheritance (val nama :String = "deflt" , val umur :String = "20"){
 
 // Ini bagian Child dari class di atas
 
- class baru ( ) : Inheritance("", ""){
+ class baru ( ) : Inheritance(){
 
  }

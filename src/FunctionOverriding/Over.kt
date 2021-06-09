@@ -27,7 +27,7 @@ open  class Over {
 
         override fun toString(): String {
 
-            print("$firtsnama = ini yang di ubah")
+            print("$firtsnama  ini yang di ubah")
 
             return super.toString()
         }

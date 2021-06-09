@@ -12,6 +12,6 @@ fun main() {
 
        val tampilan = baru()
 
-       print(tampilan.name)
+       print(tampilan.nama)
 
    }

@@ -2,7 +2,7 @@ package Inheritance
 
 
 
-class Inheritance (val nama :String = "deflt" , val umur :String = "20"){
+open class Inheritance (val nama :String = "deflt" , val umur :String = "20"){
 
     val name = nama
     val age = umur
@@ -15,3 +15,9 @@ class Inheritance (val nama :String = "deflt" , val umur :String = "20"){
 
 
 }
+
+// Ini bagian Child dari class di atas
+
+ class baru ( ) : Inheritance("", ""){
+
+ }

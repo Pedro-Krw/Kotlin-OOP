@@ -8,6 +8,10 @@ fun main() {
 
        val tampil = Inheritance("bobi" )
 
-       print(tampil.age)
+
+
+       val tampilan = baru()
+
+       print(tampilan.name)
 
    }

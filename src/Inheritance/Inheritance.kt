@@ -8,10 +8,10 @@ package Inheritance
      var umur  = usia
 
 
-      fun getProperties(){
+    open  fun getProperties(){
 
           print("nama saya adalah $namaa \n")
-          print(" umur saya adalah $umur  ")
+          print("umur saya adalah $umur  \n")
       }
 
 
@@ -25,3 +25,17 @@ package Inheritance
 
 //      kosong
   }
+
+
+
+class getNama() : Inheritance(){
+
+
+    override  fun getProperties(){
+
+//        Kita memanipulasi program fun di bagian sini atau kita mengOverride function di bagian ini
+        print("nama saya adalah Teman Alice \n")
+        print("umur saya adalah 23  \n")
+
+    }
+}

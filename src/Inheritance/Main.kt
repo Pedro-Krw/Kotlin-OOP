@@ -13,6 +13,7 @@ fun main() {
        var tampung = getData()
        var tampung2 = getNama()
 
+       print(tampung.getProperties())
        print(tampung2.getProperties())
 
 

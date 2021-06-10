@@ -19,7 +19,9 @@ package Inheritance
  }
 
 
-  class getData : Inheritance("Bobi" , "Nick") {
+  class getData : Inheritance("Bobi" , "21") {
+
+
 
 
 

@@ -1,17 +1,18 @@
 package Inheritance
 
 fun main() {
-    Tapil()
+
+    GetDAtaFromClass()
+
+
 }
 
-   fun Tapil(){
 
-       val tampil = Inheritance("bobi" )
+   private fun GetDAtaFromClass(){
 
+       var tampung = getData()
 
+       print(tampung.getProperties())
 
-       val tampilan = baru()
-
-       print(tampilan.nama)
 
    }

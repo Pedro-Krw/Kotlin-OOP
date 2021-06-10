@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="edb11f59-112c-4843-8d59-b4c4e847f0bb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FunctionOverriding/MainOver.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/FunctionOverriding/MainOver.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FunctionOverriding/Over.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/FunctionOverriding/Over.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/Inheritance.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/Inheritance.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +45,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.MainOverKt">
+  <component name="RunManager" selected="Application.MainKt">
     <configuration name="MainFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Root" />
       <option name="VM_PARAMETERS" />
@@ -113,8 +113,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainOverKt" />
         <item itemvalue="Application.MainKt" />
+        <item itemvalue="Application.MainOverKt" />
         <item itemvalue="Application.MainOverloadingKt" />
         <item itemvalue="Application.MainFunctionKt" />
         <item itemvalue="Application.SecondKt" />

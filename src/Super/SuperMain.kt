@@ -1,0 +1,4 @@
+package Super
+
+class SuperMain {
+}

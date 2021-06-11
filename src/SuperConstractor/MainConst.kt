@@ -1,0 +1,4 @@
+package SuperConstractor
+
+class MainConst {
+}

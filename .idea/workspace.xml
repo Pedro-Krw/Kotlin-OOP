@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="edb11f59-112c-4843-8d59-b4c4e847f0bb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Super/Super.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Super/Super.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Super/SuperMain.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Super/SuperMain.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnyClass/Any.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnyClass/Any.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnyClass/MainAny.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnyClass/MainAny.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,20 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.SuperKt">
+  <component name="RunManager" selected="Application.MainAnyKt">
+    <configuration name="MainAnyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Root" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="AnyClass.MainAnyKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Root" />
       <option name="VM_PARAMETERS" />
@@ -66,19 +80,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="FunctionOverriding.MainOverKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainOverloadingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="Root" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="FunctionOverloading.MainOverloadingKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -112,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainAnyKt" />
         <item itemvalue="Application.SuperKt" />
         <item itemvalue="Application.PropertiesKt" />
         <item itemvalue="Application.MainKt" />
         <item itemvalue="Application.MainOverKt" />
-        <item itemvalue="Application.MainOverloadingKt" />
       </list>
     </recent_temporary>
   </component>

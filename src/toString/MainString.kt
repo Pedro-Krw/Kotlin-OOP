@@ -1,4 +1,15 @@
 package toString
 
-class MainString {
+fun main() {
+    getDataSaja()
 }
+
+
+
+   private fun getDataSaja(){
+
+       val newObject = String()
+
+       print(newObject.toString("saa" , 90 ))
+
+   }

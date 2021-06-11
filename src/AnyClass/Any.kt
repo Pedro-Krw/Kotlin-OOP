@@ -1,0 +1,4 @@
+package AnyClass
+
+class Any {
+}

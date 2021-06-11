@@ -8,7 +8,7 @@ fun main() {
 
      val objet = Any()
 
-     print(objet)
+     print(objet.toString())
 
 
 

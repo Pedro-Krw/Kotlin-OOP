@@ -37,6 +37,20 @@ package Super
 
 
 
+      class getTime() : SuperMain(){
+
+          fun getTimeFun(){
+
+              print(super.getDate())
+
+
+
+
+
+          }
+
+      }
+
 
   }
 

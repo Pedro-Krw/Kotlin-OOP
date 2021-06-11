@@ -10,7 +10,13 @@ fun main() {
 
      val Object = getDay()
 
-     print(Object.getDate())
+     val Obeject2 = getDay.getTime()
+
+    print(Obeject2.getTimeFun())
+
+
+
+
 
 
 

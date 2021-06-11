@@ -1,6 +1,6 @@
 package AnyClass
 // Any adalah super class dari semua class yang ada di kotlin
- open  class Any (val name :String ) {
+ open  class mainSaja (val name :String ) : Any(){
 
     fun get(){
         val merek_1 = "samsung"
@@ -16,7 +16,7 @@ package AnyClass
 }
 
 
-class any : Any(""){
+class any : mainSaja(""){
 
     fun dataSeler(){
 

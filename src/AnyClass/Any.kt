@@ -8,7 +8,7 @@ package AnyClass
         val merek_2 = "huwawei"
         val merek_3 = "nokia"
         val merek_4 = "sony"
-        val merek_5 = "iphone"
+        val merek_5 = "iphone \n"
         print("$merek_1 , $merek_2 , $merek_3 , , $merek_4 , $merek_5")
 
 
@@ -22,7 +22,9 @@ class any : mainSaja(""){
 
     override fun toString(): String {
 
-        return "program ini adalah ${get().toString()}"
+    print(get().toString())
+
+        return ""
     }
 
 }

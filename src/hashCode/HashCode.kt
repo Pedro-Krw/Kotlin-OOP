@@ -1,0 +1,4 @@
+package hashCode
+
+class HashCode {
+}

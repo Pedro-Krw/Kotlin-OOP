@@ -1,0 +1,4 @@
+package equals
+
+class mainEquals {
+}

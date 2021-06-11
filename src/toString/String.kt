@@ -1,0 +1,4 @@
+package toString
+
+class String {
+}

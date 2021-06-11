@@ -6,7 +6,7 @@ fun main() {
 
  private fun getDataAbny(){
 
-     val objet = Any()
+     val objet = any()
 
      print(objet.toString())
 

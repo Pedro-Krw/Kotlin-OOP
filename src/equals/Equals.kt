@@ -9,10 +9,15 @@ fun main() {
 
 private fun dataWhen(){
 
-    val need = mainEquals("pedro" )
-    val need2 = mainEquals("pedro")
+    val need = mainEquals("pedro1" )
+    val need2 = mainEquals("pedro2")
 
-    print(need == need2)
+
+    if (need == need2){
+
+        print("$need" + "$need2")
+    }
+    else print(need == need2)
 
 
 }

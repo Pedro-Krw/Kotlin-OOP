@@ -15,4 +15,12 @@ class String {
 
 
 
+    open fun todo(nama :String = "sapi" , umur : String = "12 tahun"){
+
+        print("$nama  $umur")
+
+
+    }
+
+
 }

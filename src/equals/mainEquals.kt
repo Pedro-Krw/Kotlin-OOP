@@ -1,12 +1,17 @@
 package equals
 
-class mainEquals {
+class mainEquals (val nama :  String) {
 
 
-    val string = "ini adalah bagian dari class lain yang di panggil \n "
+    override fun equals(other: Any?): Boolean {
 
-    fun Tulisan(){
-        print(string)
+        return  when (other) {
+            is mainEquals -> other.nama == this.nama
+
+            else -> false
+        }
+
+
     }
 
 }

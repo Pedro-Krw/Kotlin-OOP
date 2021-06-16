@@ -1,17 +1,32 @@
 package equals
 
 fun main() {
-    dataUser()
+
+
+    dataWhen()
 
 }
+
+private fun dataWhen(){
+
+    val need = mainEquals("pedro" )
+    val need2 = mainEquals("pedro")
+
+    print(need == need2)
+
+
+}
+
+
+
 
 
 
 private fun dataUser(){
 
 //    Ini bagian dari object yan akan menmpung nilai dari class lain
-    var tampug = mainEquals()
-    print(tampug.Tulisan())
+
+
 
 
 

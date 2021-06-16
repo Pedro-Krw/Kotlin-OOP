@@ -1,4 +1,5 @@
 package hashCode
 
 class HashCode {
+
 }

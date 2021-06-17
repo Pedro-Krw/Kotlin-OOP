@@ -1,0 +1,4 @@
+package AbstractPropertiesDanFunction
+
+class ApDf {
+}

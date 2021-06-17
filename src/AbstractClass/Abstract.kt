@@ -1,10 +1,11 @@
 package AbstractClass
 
-class Abstract {
+abstract class Abstract (name : String = " ")
 
-    fun dataAbs(){
+    class city(name: String) : Abstract("")
+    class negara(name: String) : Abstract("")
 
 
-    }
 
-}
+
+

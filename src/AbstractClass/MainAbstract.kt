@@ -1,0 +1,5 @@
+package AbstractClass
+
+fun main() {
+
+}

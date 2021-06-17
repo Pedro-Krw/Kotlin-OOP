@@ -4,6 +4,8 @@ package hashCode
 
 class HashCode (val namaku : String) {
 
+//    hashCode di gunakan untuk menganti sebuah object yang berbeda untuk menjadi sama dalam bentuk number dan ini
+//    adalah kebalikan dari equals
     override fun hashCode(): Int {
         return namaku.hashCode()
     }

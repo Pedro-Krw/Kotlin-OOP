@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="edb11f59-112c-4843-8d59-b4c4e847f0bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Getter&amp;Setter/MainGetSet.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Getter&amp;Setter/GetterSetter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Getter&amp;Setter/GetterSetter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Getter&amp;Setter/MainGetSet.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Getter&amp;Setter/MainGetSet.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +91,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Getter&amp;Setter.MainGetSetKt" />
+      <option name="MAIN_CLASS_NAME" value="Getter_Setter.MainGetSetKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />

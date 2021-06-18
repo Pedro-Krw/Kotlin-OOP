@@ -1,4 +1,4 @@
-package `Getter&Setter`
+package Getter_Setter
 
 class GetterSetter (val name : String) {
 

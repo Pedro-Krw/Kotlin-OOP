@@ -1,4 +1,4 @@
-package `Getter&Setter`
+package Getter_Setter
 
 fun main() {
  getDataSet()
@@ -9,7 +9,7 @@ fun main() {
 
    val dataGet = GetterSetter("Adam self")
 
-     print(dataGet.title)
+    print(dataGet.title)
 
 
  }

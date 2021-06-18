@@ -13,7 +13,7 @@ class Cat : ApDf(){
 
 
     override fun run() {
-        print("Cat Run")
+        print("Cat Run \n")
     }
 
 
@@ -25,7 +25,7 @@ class Dog() : ApDf(){
 
 
     override fun run() {
-        print("Dog Run")
+        print("Dog Run \n")
     }
 
 }

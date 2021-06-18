@@ -27,4 +27,7 @@ class GetterSetter () {
      val jenis : String ,
      val berat : Int){
 
+
+
+
  }

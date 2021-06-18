@@ -1,17 +1,20 @@
 package Getter_Setter
 
-class GetterSetter (val name : String) {
+class GetterSetter () {
 
-   var title : String = name
+   var title : String = "sa"
+    var umur : Int = 19
+
     get(){
 
+        return umur
         return field
     }
+
     set(value) {
-        if (value.isNotBlank()){
-            field = value
+        if (umur == field){
+            print("data ini salah")
         }
     }
-
 
 }

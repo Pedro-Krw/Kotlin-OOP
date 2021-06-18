@@ -7,9 +7,11 @@ fun main() {
 
  private  fun getDataSet(){
 
-   val dataGet = GetterSetter("Adam self")
+   val dataGet = GetterSetter()
 
     print(dataGet.title)
+     dataGet.title = "\n nama ini di manipulasi"
+     print(dataGet.title)
 
 
  }

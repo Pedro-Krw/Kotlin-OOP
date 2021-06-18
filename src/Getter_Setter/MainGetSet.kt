@@ -9,9 +9,9 @@ fun main() {
 
    val dataGet = GetterSetter()
 
+
+
     print(dataGet.title)
-     dataGet.title = "\n nama ini di manipulasi"
-     print(dataGet.title)
 
 
  }

@@ -2,19 +2,21 @@ package Getter_Setter
 
 class GetterSetter () {
 
-   var title : String = "sa"
-    var umur : Int = 19
+   var title : String = ""
+    var umur : String = ""
+    var bulan : String
 
-    get(){
-
-        return umur
-        return field
+    get() {
+        return title
     }
 
     set(value) {
-        if (umur == field){
-            print("data ini salah")
-        }
+     umur = value
+        title = value
+        bulan = value
+
     }
+
+
 
 }

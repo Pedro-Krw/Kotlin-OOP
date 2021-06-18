@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="edb11f59-112c-4843-8d59-b4c4e847f0bb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/AbstractPropertiesDanFunction/MainApDf.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractPropertiesDanFunction/MainApDf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Getter&amp;Setter/MainGetSet.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Getter&amp;Setter/GetterSetter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Getter&amp;Setter/GetterSetter.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

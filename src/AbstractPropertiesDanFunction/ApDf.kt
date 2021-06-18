@@ -18,3 +18,14 @@ class Cat : ApDf(){
 
 
 }
+
+class Dog() : ApDf(){
+
+    override val name: String = "Dog"
+
+
+    override fun run() {
+        print("Dog Run")
+    }
+
+}

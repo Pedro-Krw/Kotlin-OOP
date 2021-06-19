@@ -5,9 +5,9 @@ fun main() {
 }
 
  private fun dataCall(){
-     val objetc = Init()
+     val object1 = Init()
 
-      objetc.brand = "Samsung A51"
-      print(objetc.brand)
+      object1.brand = "Samsung A51"
+      print(object1.brand)
 
  }

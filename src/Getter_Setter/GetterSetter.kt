@@ -25,7 +25,7 @@ class GetterSetter () {
  data class barang(
      val nama : String ,
      val jenis : String ,
-     val berat : Int){
+     val berat : Int  ){
 
 
 

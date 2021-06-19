@@ -1,0 +1,5 @@
+package Interface
+
+class Interface {
+
+}

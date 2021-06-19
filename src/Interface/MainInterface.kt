@@ -1,4 +1,10 @@
 package Interface
 
-class MainInterface {
+fun main() {
+    getDatainterface()
 }
+
+
+  private fun getDatainterface(){
+
+  }

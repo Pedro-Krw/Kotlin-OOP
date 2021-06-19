@@ -1,0 +1,4 @@
+package LateInitializedProperties
+
+class Init {
+}

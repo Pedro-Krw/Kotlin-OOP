@@ -8,6 +8,5 @@ class Init {
 
         this.brand = brand
 
-
     }
 }

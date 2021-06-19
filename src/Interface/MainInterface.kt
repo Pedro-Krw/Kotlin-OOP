@@ -2,6 +2,7 @@ package Interface
 
 fun main() {
     getDatainterface()
+    print("data Interface")
 }
 
 

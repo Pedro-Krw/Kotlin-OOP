@@ -4,7 +4,8 @@ class Vm {
 
     private val diri : String = ""
 
-    private fun dataGet(){
+    internal fun dataGet(){
+        print("Ini bagian fun dataGet yang di panggil")
 
     }
 }

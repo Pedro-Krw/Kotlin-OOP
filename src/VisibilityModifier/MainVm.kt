@@ -8,7 +8,7 @@ fun main() {
  private fun getData(){
 
   val data = Vm()
-  getData()
+  print(data.dataGet())
 
 
 

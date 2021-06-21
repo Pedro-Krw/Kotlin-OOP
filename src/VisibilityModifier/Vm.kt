@@ -2,7 +2,7 @@ package VisibilityModifier
 
 class Vm {
 
-    private val diri : String = ""
+    val diri : String = ""
 
     internal fun dataGet(){
 

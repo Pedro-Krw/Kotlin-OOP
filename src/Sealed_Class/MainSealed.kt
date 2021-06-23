@@ -1,4 +1,13 @@
 package Sealed_Class
 
-class MainSealed {
+fun main() {
+ call()
+}
+
+private fun call(){
+
+    val objectdata = SealedClass()
+    println(objectdata.char)
+
+
 }

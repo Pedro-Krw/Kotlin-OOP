@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="edb11f59-112c-4843-8d59-b4c4e847f0bb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/DataClass/MainData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataClass/MainData.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sealed_Class/MainSealed.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sealed_Class/MainSealed.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sealed_Class/SealedClass.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sealed_Class/SealedClass.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +45,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.MainDataKt">
+  <component name="RunManager" selected="Application.MainSealedKt">
     <configuration name="MainDataKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Root" />
       <option name="VM_PARAMETERS" />
@@ -83,14 +85,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainLateInitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="MainSealedKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Root" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="LateInitializedProperties.MainLateInitKt" />
+      <option name="MAIN_CLASS_NAME" value="Sealed_Class.MainSealedKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainSealedKt" />
         <item itemvalue="Application.MainDataKt" />
         <item itemvalue="Application.MainEfKt" />
         <item itemvalue="Application.MainVmKt" />
         <item itemvalue="Application.MainInterfaceKt" />
-        <item itemvalue="Application.MainLateInitKt" />
       </list>
     </recent_temporary>
   </component>

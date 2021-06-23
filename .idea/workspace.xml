@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="edb11f59-112c-4843-8d59-b4c4e847f0bb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataClass/Data_Class.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataClass/Data_Class.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataClass/MainData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataClass/MainData.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,20 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.MainEfKt">
+  <component name="RunManager" selected="Application.MainDataKt">
+    <configuration name="MainDataKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Root" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="DataClass.MainDataKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainEfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Root" />
       <option name="VM_PARAMETERS" />
@@ -52,19 +66,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="ExtensionFunction.MainEfKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainGetSetKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="Root" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Getter_Setter.MainGetSetKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainDataKt" />
         <item itemvalue="Application.MainEfKt" />
         <item itemvalue="Application.MainVmKt" />
         <item itemvalue="Application.MainInterfaceKt" />
         <item itemvalue="Application.MainLateInitKt" />
-        <item itemvalue="Application.MainGetSetKt" />
       </list>
     </recent_temporary>
   </component>

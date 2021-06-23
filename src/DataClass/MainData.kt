@@ -1,0 +1,4 @@
+package DataClass
+
+class MainData {
+}

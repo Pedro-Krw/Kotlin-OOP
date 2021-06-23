@@ -2,6 +2,7 @@ package DataClass
 
 fun main() {
    callDataClass()
+    call()
 }
 
 
@@ -12,7 +13,12 @@ private fun callDataClass(){
      val CallObject2 = CallObject.copy(nama_Barang = "Royko")
 
    println(CallObject)
-    print(CallObject2)
+    println(CallObject2)
 
  }
+
+private fun call(){
+    val tampung = Barang_Dua(" Gitar" , " elektronik" , " 1 juta")
+    println(tampung)
+}
 

@@ -9,3 +9,11 @@ data class Data_Class(
 
 
 }
+
+data class Barang_Dua(
+    val nama_Barang: String,
+    val  Masa_Berlaku: String,
+    val  jumlah_Barang: String
+){
+
+}

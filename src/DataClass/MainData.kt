@@ -8,10 +8,10 @@ fun main() {
 
 private fun callDataClass(){
 
-     val CallObject = Data_Class( " Masako" , " 23 Juni 2021" , "1000 \n")
-     val CallObject2 = Data_Class(" Gabin " , "12 Desember 2023 " , " 3000")
+     val CallObject = Data_Class( "Masako" , " 23 Juni 2021" , " 1000" )
+     val CallObject2 = Data_Class("Gabin " , " 12 Desember 2023" , " 3000")
 
-   print(CallObject)
+   println(CallObject)
     print(CallObject2)
 
  }

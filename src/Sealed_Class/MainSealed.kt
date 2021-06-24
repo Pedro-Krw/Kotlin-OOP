@@ -10,4 +10,5 @@ private fun call(){
     println(objectdata.char)
 
 
+
 }

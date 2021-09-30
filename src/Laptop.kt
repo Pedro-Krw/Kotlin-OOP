@@ -2,6 +2,11 @@
 
 fun main() {
 
+    val tampung = Laptop("", "" , "1080" , "browser" ,
+    "Merah" , "2019" , 4
+        ).on()
+    print(tampung)
+
 }
 
 class Laptop (
@@ -12,7 +17,7 @@ class Laptop (
     val Google_chrome : String,
     val led : String,
     val vsCode : String,
-    val usb : Int)
+    val usb_port: Int)
 {
    fun on (){
        print(text)

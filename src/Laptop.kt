@@ -2,10 +2,10 @@
 
 fun main() {
 
-    val tampung = Laptop("", "" , "1080" , "browser" ,
+    val tampung = Laptop("laptop ini di nyalakan", "" , "1080" , "browser" ,
     "Merah" , "2019" , 4
-        ).on()
-    print(tampung)
+        )
+    print("${tampung.on()}")
 
 }
 
@@ -20,7 +20,7 @@ class Laptop (
     val usb_port: Int)
 {
    fun on (){
-       print(text)
+       println(text)
    }
 
    fun off(){

@@ -2,12 +2,13 @@
 
 fun main() {
 
-    val tampung = Laptop("laptop ini di nyalakan", "" , "1080" , "browser" ,
-    "Merah" , "2019" , 4
+    val tampung = Laptop("laptop ini di nyalakan \n", "" , "1080" , "browser" ,
+    " " , "2019" , 4
         )
     print("${tampung.on()}")
 
 }
+
 
 class Laptop (
 
@@ -20,7 +21,14 @@ class Laptop (
     val usb_port: Int)
 {
    fun on (){
-       println(text)
+       if (
+           text == text
+       ){
+           println("Red")
+       }
+
+       print(text)
+
    }
 
    fun off(){
